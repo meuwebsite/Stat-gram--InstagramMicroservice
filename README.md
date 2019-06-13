@@ -9,7 +9,7 @@ Presentation link:
 
 Stat-gram is microservice tool for Business and Influencers on Instagram platform that uses AI to help with Marketing and Management.
 
-# GOal
+# Goal
 
 There is a gap on the Market for Analytics tools for Instagram Business/ Influencers, We do want explore it!
 All the Analytics tool on Market only cover 2 part of customer acquiring. Leads generation, User Experience,
