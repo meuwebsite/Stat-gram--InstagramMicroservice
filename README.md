@@ -1,13 +1,20 @@
 # Stat-gram--InstagramMicroservice
 
-Prototype link:
+Prototype link: https://meuwebsite.github.io/Stat-gram--InstagramMicroservice/
 
 Presentation link: 
 
 
 # Background
 
+Stat-gram is microservice tool for Business and Influencers on Instagram platform that uses AI to help with Marketing and Management.
+
 # GOal
+
+There is a gap on the Market for Analytics tools for Instagram Business/ Influencers, We do want explore it!
+All the Analytics tool on Market only cover 2 part of customer acquiring. Leads generation, User Experience,
+Meaninful KPIs, Time consulming with Integration with Management tools. Using AI, That is what we do!
+
 
 # Presentation
 
