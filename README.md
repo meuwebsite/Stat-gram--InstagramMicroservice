@@ -1,8 +1,8 @@
 # Stat-gram--InstagramMicroservice
 
-Prototype link: https://meuwebsite.github.io/Stat-gram--InstagramMicroservice/
+Product Prototype: https://meuwebsite.github.io/Stat-gram--InstagramMicroservice/
 
-Presentation link: https://www.youtube.com/watch?v=ne7lXu9ZBOo&feature=youtu.be
+Video of Presentation: https://www.youtube.com/watch?v=ne7lXu9ZBOo&feature=youtu.be
 
 
 # Background
