@@ -20,6 +20,27 @@ All the Analytics tool on Market only cover 2 part of customer acquiring. Leads 
 Meaninful KPIs, Time consulming with Integration with Management tools. Using AI, That is what we do!
 
 
+# What I done in this Project
+
+* Extract the data
+* Trained and tested the Algorithm
+* Perfomed transformation into the data to apply Machine learning
+* Tested the model with new data. Made adjustments and mproved the model for better accuracy  
+
+* Took a lead on the project and delegate tasks for co-workers (database and primary dashboard)
+* Designed the Archtecture of the Product
+* Created Data pipeline
+* Have the first sketch of the Project
+
+* Created Presentation slides using PowerPoint
+* Created Business Oportunity, Business Framework, Business Strategy and Business Model
+
+* Build Front-End page from scratch using reverse-engeneering
+* Build Prototype product web-pages using HTML,CSS,Bootstrap
+
+* Developed what are the next goals, resources and time-frame to delivery final product.
+
+
 # Presentation
 
 ![x](assets/gif/instagramProject/Slide1.GIF)
