@@ -51,7 +51,7 @@ Meaninful KPIs, Time consulming with Integration with Management tools. Using AI
 
 
 
-![x](assets/gif/architecture/pipeline.gif)
+![x](assets/gif/instagramProject/Slide8.GIF)
 
 
 
