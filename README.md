@@ -8,9 +8,13 @@ https://meuwebsite.github.io/Stat-gram--InstagramMicroservice/
 
 https://www.youtube.com/watch?v=8UsgFFAY7o8&feature=youtu.be
 
+<pre>
+</pre>
+<pre>
+</pre>
+<pre>
+</pre>
 
-
-.
 # Background
 
 Stat-gram is microservice tool for Business and Influencers on Instagram platform that uses AI to help with Marketing and Management.
