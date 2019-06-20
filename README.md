@@ -18,13 +18,31 @@ https://www.youtube.com/watch?v=8UsgFFAY7o8&feature=youtu.be
 
 # Background
 
-Stat-gram is microservice tool for Business and Influencers on Instagram platform that uses AI to help with Marketing and Management.
-
-# Goal
+#### Stat-gram is microservice tool for Business and Influencers on Instagram platform that uses AI to help with Marketing and Management.
 
 There is a gap on the Market for Analytics tools for Instagram Business/ Influencers, We do want explore it!
 All the Analytics tool on Market only cover 2 part of customer acquiring. Leads generation, User Experience,
 Meaninful KPIs, Time consulming with Integration with Management tools. Using AI, That is what we do!
+
+
+# Goal
+
+Phase 1 (Completed)
+* Create Span Detector Feature
+* Front-End
+* Prototype
+
+Phase 2
+* ETL
+* Data pipeline
+
+Phase 3
+* Create NLP Feature
+* Create second Dashboard
+
+Phase 4
+* Analyse User data
+* Create features for third Report Dashboard
 
 
 # What I done in this Project
