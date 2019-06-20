@@ -29,6 +29,7 @@ Meaninful KPIs, Time consulming with Integration with Management tools. Using AI
 
 Phase 1 (Completed)
 * Create Span Detector Feature
+* First Dashboard
 * Front-End
 * Prototype
 
