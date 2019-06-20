@@ -27,21 +27,22 @@ Meaninful KPIs, Time consulming with Integration with Management tools. Using AI
 
 # Goal
 
-Phase 1 (Completed)
+### Phase 1 (Completed)
 * Create Span Detector Feature
 * First Dashboard
 * Front-End
 * Prototype
 
-Phase 2
+### Phase 2
 * ETL
 * Data pipeline
 
-Phase 3
+### Phase 3
 * Create NLP Feature
 * Create second Dashboard
+* Launch
 
-Phase 4
+### Phase 4
 * Analyse User data
 * Create features for third Report Dashboard
 
