@@ -49,6 +49,8 @@ Meaninful KPIs, Time consulming with Integration with Management tools. Using AI
 
 
 # Presentation
+<pre>
+</pre>
 
 ![x](assets/gif/instagramProject/Slide2.GIF)
 
